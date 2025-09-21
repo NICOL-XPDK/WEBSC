@@ -9,7 +9,7 @@ env:
   AZURE_WEBAPP_NAME: python-app-websc
   AZURE_RESOURCE_GROUP: PROJECT
   AZURE_LOCATION: australiaeast
-  REGISTRY_NAME: python-app-from-github-env
+  REGISTRY_NAME: ProwebS
 
 jobs:
   build-and-deploy:
